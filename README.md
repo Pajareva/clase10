@@ -1,2 +1,1 @@
-# clase10
-Indicios de trex
+# Trex_Etapa_0.5
